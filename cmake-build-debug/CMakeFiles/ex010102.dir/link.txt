@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex010102.dir/Unit01/010102.c.o -o ex010102 

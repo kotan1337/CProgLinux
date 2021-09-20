@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/dev/C/CProgLinux/Unit01/010101.c
+stdio.h
+-
+
+/home/user/dev/C/CProgLinux/Unit01/010102.c
+stdio.h
+-
+

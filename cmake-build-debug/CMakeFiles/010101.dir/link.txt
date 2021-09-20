@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/010101.dir/Unit01/010101.c.o -o 010101 

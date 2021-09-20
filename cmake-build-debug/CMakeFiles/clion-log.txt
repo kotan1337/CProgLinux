@@ -1,0 +1,4 @@
+/home/user/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.4746.93/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/user/dev/C/CProgLinux
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/dev/C/CProgLinux/cmake-build-debug

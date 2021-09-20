@@ -1,0 +1,6 @@
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/010101.dir
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/010102.dir
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/010103.dir
+/home/user/dev/C/CProgLinux/cmake-build-debug/CMakeFiles/010104.dir

@@ -1,0 +1,6 @@
+# Project exclude paths
+/cmake-build-debug/out
+/cmake-build-debug/Testing
+*.o
+*.iml
+*.xml
