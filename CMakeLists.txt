@@ -65,3 +65,8 @@ add_executable(pr010320 Unit-1.3/pr010320.c)
 
 add_executable(ex020101 Unit-2.1/ex020101.c)
 add_executable(ex020102 Unit-2.1/ex020102.c)
+add_executable(ex020103 Unit-2.1/ex020103.c)
+add_executable(pr020104 Unit-2.1/pr020104.c)
+add_executable(sol020104 Unit-2.1/sol020104.c)
+add_executable(pr020105 Unit-2.1/pr020105.c)
+add_executable(sol020105 Unit-2.1/sol020105.c)
